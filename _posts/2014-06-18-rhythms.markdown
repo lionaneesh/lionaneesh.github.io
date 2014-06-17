@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Rhythms and Percussions"
+date:   2014-06-18 01:10:26
+categories: project
+---
+
+During the past week I have been working on adding rhythms/beats to the Keyboard Activity. The feature was inspired from the TamTam suite and we are trying to add it to Music Keyboard Activity. I have been able to get the basic beat working (without the toolbar). It currently plays a default beat (drum1kick) with the piano.
+
+During the last meeting with Gonzalo we disucssed about the toolbar controls. We thought having 4 sliders as in TamTamMini is too space-demanding for Music Keyboard activity. So, we had ourselves brainstorm and get inspiration from all the (toolbars)[wiki.sugarlabs.org/go/Design_Team/Toolbar_Catalog]. We concluded on having 1 toolbar for the beats manipulation and in that toolbar we'd have widgets (like the font size widget in Read) to change the tempo, beat complexity, beats per minute, volume etc.
+
+This week I am working to get the initial prototype ready and we'll continue the discussion on UI in next meeting.
