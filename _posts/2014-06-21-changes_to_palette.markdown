@@ -11,4 +11,4 @@ The palette patch is almost ready for pushing in the codebase. I sent in the pul
 - We have resized the palette button to show the full instrument names.
 - We have also resized the palette, it was overflowing the screen on my XO-4.
 
-![Screen1](http://pasteboard.co/WV6ydC5.png)
+![Screen1](http://i.imgur.com/u86qDbe.png)
