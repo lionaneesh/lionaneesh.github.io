@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Changes to the Palette"
-date:   2014-06-10 01:10:26
+date:   2014-06-21 16:03:26
 categories: project
 ---
 
